@@ -134,9 +134,5 @@ public class MailSender {
                 continue;
             }
         }
-
     }
-
-
-
 }
