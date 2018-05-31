@@ -41,6 +41,4 @@ public class PropertiesUtil {
     public Enumeration<String> getKeys(){
         return resource.getKeys();
     }
-
-
 }
