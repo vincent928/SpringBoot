@@ -19,3 +19,4 @@ public enum  MailContentTypeEnum {
         return value;
     }
 }
+
