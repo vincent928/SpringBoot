@@ -30,3 +30,4 @@ public class MailEntity implements Serializable{
     //接收邮件地址集合
     private List<String> list= new ArrayList<>();
 }
+
